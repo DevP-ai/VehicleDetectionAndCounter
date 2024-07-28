@@ -1,5 +1,3 @@
-# VehicleDetectionAndCounter
-
 # Vehicle Count and Detection
 
 This project involves detecting and counting vehicles using computer vision techniques. It leverages OpenCV for real-time object detection and tracking. The system captures video input, detects vehicles, and tracks them across frames to maintain a consistent count.
